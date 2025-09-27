@@ -1,6 +1,6 @@
 # Glow for Facebook
 A simple, clean, and powerful tweak for Facebook
-
+https://github.com/al3raQe/Facebook_Glow/releases
 ## Screenshots
 <table>
    <tr>
